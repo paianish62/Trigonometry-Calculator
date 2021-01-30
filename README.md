@@ -1,1 +1,1 @@
-# Trigonometry-Calculator
+Anish's Calculator
